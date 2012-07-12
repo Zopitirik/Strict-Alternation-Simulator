@@ -1,0 +1,9 @@
+C:\Users\Hikmet\Github\Strict-Alternation-Simulator\StrictAlternation\StrictAlternation\bin\Debug\StrictAlternation.exe
+C:\Users\Hikmet\Github\Strict-Alternation-Simulator\StrictAlternation\StrictAlternation\bin\Debug\StrictAlternation.pdb
+C:\Users\Hikmet\Github\Strict-Alternation-Simulator\StrictAlternation\StrictAlternation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hikmet\Github\Strict-Alternation-Simulator\StrictAlternation\StrictAlternation\obj\x86\Debug\StrictAlternation.Form1.resources
+C:\Users\Hikmet\Github\Strict-Alternation-Simulator\StrictAlternation\StrictAlternation\obj\x86\Debug\StrictAlternation.Properties.Resources.resources
+C:\Users\Hikmet\Github\Strict-Alternation-Simulator\StrictAlternation\StrictAlternation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hikmet\Github\Strict-Alternation-Simulator\StrictAlternation\StrictAlternation\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hikmet\Github\Strict-Alternation-Simulator\StrictAlternation\StrictAlternation\obj\x86\Debug\StrictAlternation.exe
+C:\Users\Hikmet\Github\Strict-Alternation-Simulator\StrictAlternation\StrictAlternation\obj\x86\Debug\StrictAlternation.pdb
